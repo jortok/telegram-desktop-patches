@@ -3,3 +3,7 @@
 *.tar.xz
 pkg/
 src/
+td/
+work/
+*.pkg.tar
+*.pkg.tar.zst
